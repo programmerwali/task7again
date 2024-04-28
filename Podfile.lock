@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - AlamofireSwiftyJSON (1.0.2):
+    - Alamofire (~> 4.0)
+    - SwiftyJSON (~> 4.0)
+  - CountryPickerView (3.3.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - AlamofireSwiftyJSON
+  - CountryPickerView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireSwiftyJSON
+    - CountryPickerView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  AlamofireSwiftyJSON: 74ee3804bed06d07857daf1eeb1615c85dba3997
+  CountryPickerView: 6322ada32a80b0cd721b0267282a5c24f406f263
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: b99407670bc75c16e901714955dfeae57e6a632c
+
+COCOAPODS: 1.13.0
